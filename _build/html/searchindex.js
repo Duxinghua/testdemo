@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index","test/index"],envversion:50,filenames:["index.rst","test/index.rst"],objects:{},objnames:{},objtypes:{},terms:{construir:0,documento:0,hao:0,instal:0,list:0,steup:0,traduzido:0,you:0},titles:["testdemo test","hao are you"],titleterms:{construir:1,documento:1,hao:1,instal:1,steup:1,test:0,testdemo:0,traduzido:1,you:1}})
