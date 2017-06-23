@@ -19,17 +19,17 @@ msgstr ""
 
 #: ../../test/index.rst:2
 msgid "hao are you"
-msgstr "你多大"
+msgstr ""
 
 #: ../../test/index.rst:7
 msgid "install"
-msgstr "安装"
+msgstr ""
 
 #: ../../test/index.rst:13
 msgid "steup"
-msgstr "安装"
+msgstr ""
 
 #: ../../test/index.rst:18
 msgid "Construir documento traduzido."
-msgstr "安装之后再安装"
+msgstr ""
 

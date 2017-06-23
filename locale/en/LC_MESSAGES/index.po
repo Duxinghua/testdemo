@@ -19,9 +19,9 @@ msgstr ""
 
 #: ../../index.rst:4
 msgid "testdemo test"
-msgstr "测试文档 测试"
+msgstr ""
 
 #: ../../index.rst:6
 msgid "list:"
-msgstr "目录"
+msgstr ""
 

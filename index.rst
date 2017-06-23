@@ -8,6 +8,7 @@ testdemo test
    :caption: list:
 
    test/index
+   raq/index
 
 
 
