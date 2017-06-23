@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e7b037-827b-40a1-94fc-5cb326b5da93" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/environment.pickle" afterPath="$PROJECT_DIR$/build/gettext/.doctrees/environment.pickle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/raq/index.doctree" afterPath="$PROJECT_DIR$/build/gettext/.doctrees/raq/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gettext/raq/index.pot" afterPath="$PROJECT_DIR$/build/gettext/raq/index.pot" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" afterPath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/raq/index.rst" afterPath="$PROJECT_DIR$/source/raq/index.rst" />
     </list>
     <ignored path="testdemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +59,8 @@
       <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="-195">
+              <caret line="111" column="65" selection-start-line="111" selection-start-column="65" selection-end-line="111" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -135,8 +131,8 @@
         <option value="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq.po" />
         <option value="$PROJECT_DIR$/source/conf.py" />
         <option value="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/index.po" />
-        <option value="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" />
         <option value="$PROJECT_DIR$/source/raq/index.rst" />
+        <option value="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" />
       </list>
     </option>
   </component>
@@ -588,7 +584,7 @@
     <frame x="0" y="23" width="1280" height="736" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -772,8 +768,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="-195">
+          <caret line="111" column="65" selection-start-line="111" selection-start-column="65" selection-end-line="111" selection-end-column="65" />
           <folding />
         </state>
       </provider>

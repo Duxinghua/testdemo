@@ -26,7 +26,7 @@ msgstr "Frequently Asked Questions (FAQ)"
 msgid "1.比特派相比于其他OTC平台有什么区别和优势"
 msgstr ""
 "1.Compared to traditional trading platforms or other OTC platforms,what "
-"are the difference and the advantage of Bitpie?"
+"are the difference and the advantage of Bitpie"
 
 #: ../../source/raq/index.rst:7
 #, fuzzy
@@ -48,7 +48,7 @@ msgstr ""
 #: ../../source/raq/index.rst:10
 #, fuzzy
 msgid "2.我在比特派的账户及账户里的资金是受保护的吗"
-msgstr "2.Is it safe for the money in my Bitpie account and in bank account?"
+msgstr "2.Is it safe for the money in my Bitpie account and in bank account"
 
 #: ../../source/raq/index.rst:12
 #, fuzzy
@@ -62,7 +62,7 @@ msgstr ""
 #: ../../source/raq/index.rst:15
 #, fuzzy
 msgid "3.我在比特派上进行交易,比特派怎么保护我的隐私数据"
-msgstr "3.When I trade on Bitpie, how does Bitpie protect my privacy data?"
+msgstr "3.When I trade on Bitpie, how does Bitpie protect my privacy data"
 
 #: ../../source/raq/index.rst:17
 #, fuzzy
@@ -79,7 +79,7 @@ msgstr ""
 msgid "4.如果比特派公司在经营上出现了问题,我的资产是安全的吗"
 msgstr ""
 "4.Whether my assets are safe or not if Bitpie company has a operational "
-"problem?"
+"problem"
 
 #: ../../source/raq/index.rst:22
 #, fuzzy
@@ -97,7 +97,7 @@ msgstr ""
 msgid "5.交易有最低的限额吗?我需要至少多少钱才可以开始交易"
 msgstr ""
 "5.Does the transaction have the minimum limits? How much money do I have "
-"at least to start trading?"
+"at least to start trading"
 
 #: ../../source/raq/index.rst:27
 #, fuzzy
@@ -109,7 +109,7 @@ msgstr ""
 #: ../../source/raq/index.rst:30
 #, fuzzy
 msgid "6.我可以通过哪些方式参与数字货币的交易"
-msgstr "6.How could I participate in digital currency transaction?"
+msgstr "6.How could I participate in digital currency transaction"
 
 #: ../../source/raq/index.rst:32
 #, fuzzy
