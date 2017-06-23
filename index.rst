@@ -13,6 +13,19 @@
 
 
    raq/index
+   note/index
+   download/index
+   soft/index
+   password/index
+   version/index
+   id/index
+   btc/index
+   send/index
+   vip/index
+   otc/index
+   tx/index
+   address/index
+   collection/index
 
 
 
