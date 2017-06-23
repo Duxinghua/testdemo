@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 比特派 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-23 19:16+0800\n"
+"POT-Creation-Date: 2017-06-23 19:20+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgstr "Frequently Asked Questions (FAQ)"
 
 #: ../../source/raq/index.rst:5
 #, fuzzy
-msgid "1.比特派相对于其他OTC平台有什么区别和优势"
+msgid "比特派相对于其他OTC平台有什么区别和优势?"
 msgstr ""
 "1.Compared to traditional trading platforms or other OTC platforms,what "
 "are the difference and the advantage of Bitpie"
@@ -44,87 +44,6 @@ msgstr ""
 "and 'Prohibit withdrawal' issue won’t happen. All in all, Bitpie must "
 "attaches more importance to the user's asset security than other similar "
 "platforms."
-
-#: ../../source/raq/index.rst:10
-#, fuzzy
-msgid "2.我在比特派的账户及账户里的资金是受保护的吗"
-msgstr "2.Is it safe for the money in my Bitpie account and in bank account"
-
-#: ../../source/raq/index.rst:12
-#, fuzzy
-msgid "是的.比特派基于HD钱包技术,因此平台自身无法动用用户数字资产,不存在其他交易平台的'暂停提现'或'卷币跑路'的可能."
-msgstr ""
-"Yes, it is. Based on the HD wallet technology, Bitpie can not access to "
-"the user’s digital assets, so it is impossible to occur the phenomenon "
-"--'Pause to withdraw' or 'Run away with money' on others’ trading "
-"platforms."
-
-#: ../../source/raq/index.rst:15
-#, fuzzy
-msgid "3.我在比特派上进行交易,比特派怎么保护我的隐私数据"
-msgstr "3.When I trade on Bitpie, how does Bitpie protect my privacy data"
-
-#: ../../source/raq/index.rst:17
-#, fuzzy
-msgid "比特派严格按照国家法律法规保护用户隐私,在登录和交易环节采用了自主研发的领先的安全和加密技术,基于角色的最严格内控系统,严格防止外部攻击者对用户隐私信息的获取,为用户交易保驾护航."
-msgstr ""
-"In strict accordance with national laws and regulations to protect user’s"
-" privacy, Bitpie has applied the self-developed, advanced security and "
-"encryption technology. In view of the most stringent internal controlling"
-" system, it can exactly prevent external attackers from obtaining user "
-"privacy information for protecting transactions."
-
-#: ../../source/raq/index.rst:20
-#, fuzzy
-msgid "4.如果比特派公司在经营上出现了问题,我的资产是安全的吗"
-msgstr ""
-"4.Whether my assets are safe or not if Bitpie company has a operational "
-"problem"
-
-#: ../../source/raq/index.rst:22
-#, fuzzy
-msgid "是的.这是比特派区别于其他交易平台的重要技术:我们把自身企业运营和用户资产控制完全隔离,用户通过HD钱包掌控了数字货币私钥,即使比特派公司运营出现重大问题,也不可能在用户私人财产动任何脑筋."
-msgstr ""
-"Yes, it is safe. This is a significant technology that distinguishes from"
-" others’ platforms: we completely separate our own business operations "
-"from user’s asset controlling system, and the user takes the private key "
-"of digital currency through HD wallet. Therefore, even if there is a "
-"severe operational problem, Bitpie still can’t access to the user’s "
-"money."
-
-#: ../../source/raq/index.rst:25
-#, fuzzy
-msgid "5.交易有最低的限额吗?我需要至少多少钱才可以开始交易"
-msgstr ""
-"5.Does the transaction have the minimum limits? How much money do I have "
-"at least to start trading"
-
-#: ../../source/raq/index.rst:27
-#, fuzzy
-msgid "目前:'一键买卖'最低交易0.1BTC,'OTC托管交易'买卖双方自定义限额.后期也有可能动态调整."
-msgstr ""
-"The minimum limits of ‘Instant Trade’ are 0.1BTC. The buyer and seller on"
-" OTC Escrow transaction can define the limits."
-
-#: ../../source/raq/index.rst:30
-#, fuzzy
-msgid "6.我可以通过哪些方式参与数字货币的交易"
-msgstr "6.How could I participate in digital currency transaction"
-
-#: ../../source/raq/index.rst:32
-#, fuzzy
-msgid "比特派提供了iOS和android版本的客户端."
-msgstr "Bitpie provides IOS and Android versions."
-
-#: ../../source/raq/index.rst:34
-#, fuzzy
-msgid "下载地址:苹果iOS: http://bitpie.com/ios/"
-msgstr "Download Address: Apple iOS: http://bitpie.com/ios/"
-
-#: ../../source/raq/index.rst:36
-#, fuzzy
-msgid "安卓android: http://bitpie.com/android/"
-msgstr "Android: http://bitpie.com/android/"
 
 #~ msgid "7.“比特派（bitpie）”和“比太钱包（bither）”是什么关系?"
 #~ msgstr "7.What is the relationship between 'bitpie' and 'bither'?"
@@ -596,4 +515,76 @@ msgstr "Android: http://bitpie.com/android/"
 #~ "results "
 #~ "https://www.baidu.com/s?ie=utf8&oe=utf8&wd=%E6%AF%94%E5%A4%AA%E9%92%B1%E5%8C%85%E4%BD%93%E9%AA%8C&tn=98010089_dg&ch=2"
 #~ " Bither wallet’s FAQ"
+
+#~ msgid "2.我在比特派的账户及账户里的资金是受保护的吗"
+#~ msgstr "2.Is it safe for the money in my Bitpie account and in bank account"
+
+#~ msgid "是的.比特派基于HD钱包技术,因此平台自身无法动用用户数字资产,不存在其他交易平台的'暂停提现'或'卷币跑路'的可能."
+#~ msgstr ""
+#~ "Yes, it is. Based on the HD "
+#~ "wallet technology, Bitpie can not access"
+#~ " to the user’s digital assets, so "
+#~ "it is impossible to occur the "
+#~ "phenomenon --'Pause to withdraw' or 'Run"
+#~ " away with money' on others’ trading"
+#~ " platforms."
+
+#~ msgid "3.我在比特派上进行交易,比特派怎么保护我的隐私数据"
+#~ msgstr "3.When I trade on Bitpie, how does Bitpie protect my privacy data"
+
+#~ msgid "比特派严格按照国家法律法规保护用户隐私,在登录和交易环节采用了自主研发的领先的安全和加密技术,基于角色的最严格内控系统,严格防止外部攻击者对用户隐私信息的获取,为用户交易保驾护航."
+#~ msgstr ""
+#~ "In strict accordance with national laws"
+#~ " and regulations to protect user’s "
+#~ "privacy, Bitpie has applied the self-"
+#~ "developed, advanced security and encryption"
+#~ " technology. In view of the most "
+#~ "stringent internal controlling system, it "
+#~ "can exactly prevent external attackers "
+#~ "from obtaining user privacy information "
+#~ "for protecting transactions."
+
+#~ msgid "4.如果比特派公司在经营上出现了问题,我的资产是安全的吗"
+#~ msgstr ""
+#~ "4.Whether my assets are safe or "
+#~ "not if Bitpie company has a "
+#~ "operational problem"
+
+#~ msgid "是的.这是比特派区别于其他交易平台的重要技术:我们把自身企业运营和用户资产控制完全隔离,用户通过HD钱包掌控了数字货币私钥,即使比特派公司运营出现重大问题,也不可能在用户私人财产动任何脑筋."
+#~ msgstr ""
+#~ "Yes, it is safe. This is a "
+#~ "significant technology that distinguishes from"
+#~ " others’ platforms: we completely separate"
+#~ " our own business operations from "
+#~ "user’s asset controlling system, and the"
+#~ " user takes the private key of "
+#~ "digital currency through HD wallet. "
+#~ "Therefore, even if there is a "
+#~ "severe operational problem, Bitpie still "
+#~ "can’t access to the user’s money."
+
+#~ msgid "5.交易有最低的限额吗?我需要至少多少钱才可以开始交易"
+#~ msgstr ""
+#~ "5.Does the transaction have the minimum"
+#~ " limits? How much money do I "
+#~ "have at least to start trading"
+
+#~ msgid "目前:'一键买卖'最低交易0.1BTC,'OTC托管交易'买卖双方自定义限额.后期也有可能动态调整."
+#~ msgstr ""
+#~ "The minimum limits of ‘Instant Trade’"
+#~ " are 0.1BTC. The buyer and seller "
+#~ "on OTC Escrow transaction can define the"
+#~ " limits."
+
+#~ msgid "6.我可以通过哪些方式参与数字货币的交易"
+#~ msgstr "6.How could I participate in digital currency transaction"
+
+#~ msgid "比特派提供了iOS和android版本的客户端."
+#~ msgstr "Bitpie provides IOS and Android versions."
+
+#~ msgid "下载地址:苹果iOS: http://bitpie.com/ios/"
+#~ msgstr "Download Address: Apple iOS: http://bitpie.com/ios/"
+
+#~ msgid "安卓android: http://bitpie.com/android/"
+#~ msgstr "Android: http://bitpie.com/android/"
 
