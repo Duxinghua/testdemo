@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-23 19:45+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/raq/index.rst:2
+msgid "常见问题FAQ"
+msgstr ""
+
+#: ../../source/raq/index.rst:5
+msgid "比特派相对于其他OTC平台有什么区别和优势"
+msgstr ""
+
+#: ../../source/raq/index.rst:7
+msgid ""
+"比特派基于HD钱包(Hierarchical Deterministic Wallet)技术和多重签名(Multi-"
+"Signature)技术,用户买卖数字货币基于区块链—意味着用户自身控制数字货币私钥—而不是被'平台'或其他方控制.同时,比特派也不保管用户的法币(人民币),不存在'法币充值提现'的业务,用户交易完成后,所有法币债权债务都会结清,'禁止提钱'的事情也不会发生.所以比特派比其他类似产品更加重视用户的资产安全."
+msgstr ""
+
