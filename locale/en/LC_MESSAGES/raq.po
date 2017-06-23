@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-23 16:28+0800\n"
+"POT-Creation-Date: 2017-06-23 16:51+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../source/raq/index.rst:3
+#: ../../source/raq/index.rst:2
 msgid "常见问题FAQ"
 msgstr "Frequently Asked Questions"
 
 #: ../../source/raq/index.rst:7
-msgid "1.比特派相比于传统交易平台、或其他OTC平台，有什么区别和优势？"
+#, fuzzy
+msgid "... 比特派相比于传统交易平台、或其他OTC平台，有什么区别和优势？"
 msgstr ""
-"1.Compared to traditional trading platforms or other OTC platforms, what "
+"... Compared to traditional trading platforms or other OTC platforms, what "
 "are the difference and the advantage of Bitpie?"
 
-#: ../../source/raq/index.rst:9
+#: ../../source/raq/index.rst:6
 msgid ""
 "比特派基于HD钱包（Hierarchical Deterministic Wallet）技术和多重签名（Multi-"
 "Signature）技术，用户买卖数字货币基于区块链上交易（Online "
@@ -44,13 +45,13 @@ msgstr ""
 "attaches more importance to the user's asset security than other similar "
 "platforms."
 
-#: ../../source/raq/index.rst:13
-msgid "2.我在比特派的账户及账户里的资金是受保护的吗？"
-msgstr ""
+#: ../../source/raq/index.rst:9
+msgid "... 我在比特派的账户及账户里的资金是受保护的吗？"
+msgstr "... Is it safe for the money in my Bitpie account and in bank account?"
 
-#: ../../source/raq/index.rst:15
+#: ../../source/raq/index.rst:10
 msgid "是的。比特派基于HD钱包技术，因此平台自身无法动用用户数字资产，不存在其他交易平台的“暂停提现”或“卷币跑路”的可能。"
-msgstr ""
+msgstr "Is it safe for the money in my Bitpie account and in bank account"
 
 #~ msgid "3.我在比特派上进行交易，比特派怎么保护我的隐私数据？"
 #~ msgstr ""
@@ -334,5 +335,8 @@ msgstr ""
 #~ "pages/faq.md "
 #~ "、以及“搜索结果”https://www.baidu.com/s?ie=utf8&oe=utf8&wd=%E6%AF%94%E5%A4%AA%E9%92%B1%E5%8C%85%E4%BD%93%E9%AA%8C&tn=98010089_dg&ch=2"
 #~ " 来了解。"
+#~ msgstr ""
+
+#~ msgid "2.我在比特派的账户及账户里的资金是受保护的吗？"
 #~ msgstr ""
 
