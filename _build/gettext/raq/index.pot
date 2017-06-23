@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-23 19:45+0800\n"
+"POT-Creation-Date: 2017-06-23 19:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "常见问题FAQ"
 msgstr ""
 
 #: ../../raq/index.rst:5
-msgid "比特派相对于其他OTC平台有什么区别和优势"
+msgid "1.比特派相对于其他OTC平台有什么区别和优势?"
 msgstr ""
 
 #: ../../raq/index.rst:7

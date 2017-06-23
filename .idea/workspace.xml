@@ -2,129 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e7b037-827b-40a1-94fc-5cb326b5da93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/10.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/12.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/13.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/16.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/17.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/19.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/33.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/34.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/35.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/36.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/7.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/8.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/addressNote.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/addressNote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bitpielogic.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bitpielogic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/create.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/create.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_bitpie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/password-code.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/password-code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vip.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/viporder.en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/viporder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/address/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btc/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collection/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/id/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/note/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/otc/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/password/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/raq/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/send/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soft/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tx/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/version/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vip/index.rst" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/address/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/address/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/btc/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/btc/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/collection/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/collection/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/download/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/download/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/id/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/id/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/note/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/note/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/otc/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/otc/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/password/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/password/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/send/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/send/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/soft/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/soft/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/tx/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/tx/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/version/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/version/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/vip/index.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/vip/index.po" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Makefile" afterPath="$PROJECT_DIR$/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make.bat" afterPath="$PROJECT_DIR$/make.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/environment.pickle" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/environment.pickle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/raq/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/raq/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/raq/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/raq/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf.py" afterPath="$PROJECT_DIR$/conf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/raq/index.rst" afterPath="$PROJECT_DIR$/raq/index.rst" />
     </list>
     <ignored path="testdemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -181,8 +64,18 @@
       <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="656" selection-start-line="31" selection-start-column="656" selection-end-line="31" selection-end-column="656" />
+            <state relative-caret-position="253">
+              <caret line="26" column="128" selection-start-line="26" selection-start-column="128" selection-end-line="26" selection-end-column="128" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raq/index.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -201,8 +94,8 @@
       <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+            <state relative-caret-position="510">
+              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -238,16 +131,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/raq/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -271,7 +154,6 @@
         <option value="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/password/index.po" />
         <option value="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raqs/index.po" />
         <option value="$PROJECT_DIR$/Makefile" />
-        <option value="$PROJECT_DIR$/raq/index.rst" />
         <option value="$PROJECT_DIR$/test/index.rst" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/test/index.po" />
         <option value="$PROJECT_DIR$/source/index.rst" />
@@ -281,10 +163,11 @@
         <option value="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/index.po" />
         <option value="$PROJECT_DIR$/source/raq/index.rst" />
         <option value="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" />
-        <option value="$PROJECT_DIR$/conf.py" />
         <option value="$PROJECT_DIR$/index.rst" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/source/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po" />
+        <option value="$PROJECT_DIR$/conf.py" />
+        <option value="$PROJECT_DIR$/raq/index.rst" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
       </list>
     </option>
@@ -340,6 +223,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="testdemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testdemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testdemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raq" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -778,7 +675,6 @@
     <entry file="file://$PROJECT_DIR$/_build/gettext/raq/index.pot" />
     <entry file="file://$PROJECT_DIR$/_build/gettext/test/index.pot" />
     <entry file="file://$PROJECT_DIR$/_build/gettext/.doctrees/raq/index.doctree" />
-    <entry file="file://$PROJECT_DIR$/raq/index.rst" />
     <entry file="file://$PROJECT_DIR$/test/index.rst" />
     <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/test/index.po" />
     <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq.po">
@@ -861,14 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -901,10 +789,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raq/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="656" selection-start-line="31" selection-start-column="656" selection-end-line="31" selection-end-column="656" />
+        <state relative-caret-position="253">
+          <caret line="26" column="128" selection-start-line="26" selection-start-column="128" selection-end-line="26" selection-end-column="128" />
           <folding />
         </state>
       </provider>
