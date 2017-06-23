@@ -2,22 +2,149 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e7b037-827b-40a1-94fc-5cb326b5da93" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/raq.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq.po" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/environment.pickle" afterPath="$PROJECT_DIR$/build/gettext/.doctrees/environment.pickle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Makefile" afterPath="$PROJECT_DIR$/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/index.doctree" afterPath="$PROJECT_DIR$/build/gettext/.doctrees/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/raq/index.doctree" afterPath="$PROJECT_DIR$/build/gettext/.doctrees/raq/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gettext/index.pot" afterPath="$PROJECT_DIR$/build/gettext/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gettext/raq/index.pot" afterPath="$PROJECT_DIR$/build/gettext/raq/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make.bat" afterPath="$PROJECT_DIR$/make.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/conf.py" afterPath="$PROJECT_DIR$/source/conf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/index.po" afterPath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/index.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" afterPath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/address/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/btc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/collection/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/config.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/download/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/environment.pickle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/id/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/note/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/otc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/password/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/raq/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/send/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/soft/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/tx/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/version/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/vip/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/address/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/btc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/collection/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/download/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/environment.pickle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/id/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/note/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/otc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/password/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/raq/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/send/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/soft/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/tx/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/version/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/vip/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/address/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/btc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/collection/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/download/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/id/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/note/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/otc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/password/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/raq/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/send/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/soft/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/tx/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/version/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/vip/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/.buildinfo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/.nojekyll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/addressNote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/bitpielogic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/create.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/logo_bitpie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/password-code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/vip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/viporder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/address/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/btc/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/collection/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/config.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/download/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/id/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/note/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/otc/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/password/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/raq/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/send/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/soft/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/tx/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/version/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/vip/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/下载安装.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/身份认证.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/alabaster.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/classic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/comment-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/comment-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/doctools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/down-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/jquery-3.1.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/searchtools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/sidebar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/translations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/underscore-1.3.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/up-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/websupport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/address/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/btc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/collection/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/download/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/id/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/note/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/otc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/password/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/raq/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/searchindex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/send/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/soft/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/tx/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/version/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/vip/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/raq/index.rst" afterPath="$PROJECT_DIR$/source/raq/index.rst" />
     </list>
     <ignored path="testdemo.iws" />
@@ -72,10 +199,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5160">
+            <state relative-caret-position="570">
               <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
               <folding />
             </state>
@@ -92,11 +219,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/raq/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="196" column="37" selection-start-line="196" selection-start-column="37" selection-end-line="196" selection-end-column="37" />
+            <state relative-caret-position="60">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -221,62 +348,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="raq" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="locale" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LC_MESSAGES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="locale" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LC_MESSAGES" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -741,14 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/raq/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="196" column="37" selection-start-line="196" selection-start-column="37" selection-end-line="196" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq.po">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -767,8 +830,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5160">
+        <state relative-caret-position="570">
           <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/raq/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
