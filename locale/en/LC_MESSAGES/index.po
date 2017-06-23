@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: demo \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-23 19:58+0800\n"
+"POT-Creation-Date: 2017-06-23 16:05+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,6 +22,6 @@ msgid "testdemo test"
 msgstr ""
 
 #: ../../index.rst:6
-msgid "list:"
-msgstr ""
+msgid "目录:"
+msgstr "list:"
 

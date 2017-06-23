@@ -5,7 +5,7 @@ testdemo test
 
 .. toctree::
    :maxdepth: 3
-   :caption: list:
+   :caption: 目录:
 
    test/index
    raq/index
