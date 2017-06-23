@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 比特派 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-23 19:20+0800\n"
+"POT-Creation-Date: 2017-06-23 19:29+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,8 +23,10 @@ msgstr "Frequently Asked Questions (FAQ)"
 
 #: ../../source/raq/index.rst:5
 #, fuzzy
-msgid "比特派相对于其他OTC平台有什么区别和优势?"
-msgstr "Compared to traditional trading platforms or other OTC platforms,what are the difference and the advantage of Bitpie\?"
+msgid "比特派相对于其他OTC平台有什么区别和优势"
+msgstr ""
+"Compared to traditional trading platforms or other OTC platforms,what are"
+" the difference and the advantage of Bitpie\\?"
 
 #: ../../source/raq/index.rst:7
 #, fuzzy
