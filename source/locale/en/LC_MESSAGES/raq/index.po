@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 比特派 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-23 18:43+0800\n"
+"POT-Creation-Date: 2017-06-23 19:09+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgstr "Frequently Asked Questions (FAQ)"
 
 #: ../../source/raq/index.rst:6
 #, fuzzy
-msgid "1.比特派相比于其他OTC平台有什么区别和优势?"
+msgid "1.比特派相比于其他OTC平台有什么区别和优势"
 msgstr ""
 "1.Compared to traditional trading platforms or other OTC platforms,what "
 "are the difference and the advantage of Bitpie?"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../source/raq/index.rst:10
 #, fuzzy
-msgid "2.我在比特派的账户及账户里的资金是受保护的吗?"
+msgid "2.我在比特派的账户及账户里的资金是受保护的吗"
 msgstr "2.Is it safe for the money in my Bitpie account and in bank account?"
 
 #: ../../source/raq/index.rst:12
@@ -61,7 +61,7 @@ msgstr ""
 
 #: ../../source/raq/index.rst:15
 #, fuzzy
-msgid "3.我在比特派上进行交易,比特派怎么保护我的隐私数据?"
+msgid "3.我在比特派上进行交易,比特派怎么保护我的隐私数据"
 msgstr "3.When I trade on Bitpie, how does Bitpie protect my privacy data?"
 
 #: ../../source/raq/index.rst:17
@@ -76,7 +76,7 @@ msgstr ""
 
 #: ../../source/raq/index.rst:20
 #, fuzzy
-msgid "4.如果比特派公司在经营上出现了问题,我的资产是安全的吗?"
+msgid "4.如果比特派公司在经营上出现了问题,我的资产是安全的吗"
 msgstr ""
 "4.Whether my assets are safe or not if Bitpie company has a operational "
 "problem?"
@@ -94,7 +94,7 @@ msgstr ""
 
 #: ../../source/raq/index.rst:25
 #, fuzzy
-msgid "5.交易有最低的限额吗?我需要至少多少钱才可以开始交易?"
+msgid "5.交易有最低的限额吗?我需要至少多少钱才可以开始交易"
 msgstr ""
 "5.Does the transaction have the minimum limits? How much money do I have "
 "at least to start trading?"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: ../../source/raq/index.rst:30
 #, fuzzy
-msgid "6.我可以通过哪些方式参与数字货币的交易?"
+msgid "6.我可以通过哪些方式参与数字货币的交易"
 msgstr "6.How could I participate in digital currency transaction?"
 
 #: ../../source/raq/index.rst:32
