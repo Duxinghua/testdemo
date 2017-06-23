@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 比特派 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-23 19:09+0800\n"
+"POT-Creation-Date: 2017-06-23 19:16+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,8 +20,8 @@ msgstr ""
 msgid "常见问题FAQ"
 msgstr ""
 
-#: ../../source/raq/index.rst:6
-msgid "1.比特派相比于其他OTC平台有什么区别和优势"
+#: ../../source/raq/index.rst:5
+msgid "1.比特派相对于其他OTC平台有什么区别和优势"
 msgstr ""
 
 #: ../../source/raq/index.rst:7
