@@ -6,7 +6,6 @@
 #, fuzzy
 msgid ""
 msgstr ""
-
 "Project-Id-Version: 比特派 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-19 09:57+0800\n"
@@ -17,8 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
-
-
 
 #: ../../source/index.rst:7
 msgid "比特派使用文档"

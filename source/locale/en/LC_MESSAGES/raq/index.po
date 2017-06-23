@@ -24,9 +24,7 @@ msgstr "Frequently Asked Questions (FAQ)"
 #: ../../source/raq/index.rst:6
 #, fuzzy
 msgid "1.比特派相比于其他OTC平台有什么区别和优势?"
-msgstr ""
-"1.Compared to traditional trading platforms or other OTC platforms, what "
-"are the difference and the advantage of Bitpie?"
+msgstr "1.Compared to traditional trading platforms or other OTC platforms, what are the difference and the advantage of Bitpie?"
 
 #: ../../source/raq/index.rst:7
 #, fuzzy
