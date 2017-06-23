@@ -1,14 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017, bitpie
-# This file is distributed under the same license as the Bitpie package.
+# Copyright (C) 2017, test
+# This file is distributed under the same license as the 比特派 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Bitpie 0.1\n"
+
+"Project-Id-Version: 比特派 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-23 16:16+0800\n"
+"POT-Creation-Date: 2017-06-19 09:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
+
+
 #: ../../source/index.rst:7
 msgid "比特派使用文档"
-msgstr ""
+msgstr "Bitpie help docs"
 
 #: ../../source/index.rst:9
 msgid "目录:"
-msgstr ""
+msgstr "List:"
 
