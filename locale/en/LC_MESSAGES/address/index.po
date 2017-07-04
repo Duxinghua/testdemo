@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-23 19:45+0800\n"
+"POT-Creation-Date: 2017-07-04 20:33+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,15 +19,15 @@ msgstr ""
 
 #: ../../address/index.rst:2
 msgid "地址簿"
-msgstr ""
+msgstr "this is a test"
 
 #: ../../address/index.rst:6
 msgid "概述"
-msgstr ""
+msgstr "test "
 
 #: ../../address/index.rst:8
 msgid "管理比特币地址。"
-msgstr ""
+msgstr "tdkjskfjs  sdfs "
 
 #: ../../address/index.rst:19
 msgid "地址簿使用方法"
