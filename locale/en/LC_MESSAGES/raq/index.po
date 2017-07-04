@@ -23,7 +23,7 @@ msgstr "Frequently Asked Questions (FAQ)"
 
 #: ../../raq/index.rst:6
 msgid "1.比特派相比于传统交易平台、或其他OTC平台，有什么区别和优势？"
-msgstr "1. Compared to traditional trading platforms or other OTC platforms, what are the difference and the advantage of Bitpie?"
+msgstr "1.Compared to traditional trading platforms or other OTC platforms, what are the difference and the advantage of Bitpie?"
 
 #: ../../raq/index.rst:7
 msgid ""
@@ -34,11 +34,11 @@ msgstr "Biepit is based on Hierarchical Deterministic Wallet and Multi-Signature
 
 #: ../../raq/index.rst:10
 msgid "2.我在比特派的账户及账户里的资金是受保护的吗？"
-msgstr "2.create local en loc s te"
+msgstr "2.Is it safe for the money in my Bitpie account and in bank account?"
 
 #: ../../raq/index.rst:12
 msgid "是的。比特派基于HD钱包技术，因此平台自身无法动用用户数字资产，不存在其他交易平台的“暂停提现”或“卷币跑路”的可能。"
-msgstr "yes.bitpie this is a page test "
+msgstr "Yes, it is. Based on the HD wallet technology, Bitpie can not access to the user’s digital assets, so it is impossible to occur the phenomenon --'Pause to withdraw' or 'Run away with money' on others’ trading platforms."
 
 #: ../../raq/index.rst:15
 msgid "3.我在比特派上进行交易，比特派怎么保护我的隐私数据？"
