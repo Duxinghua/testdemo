@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e7b037-827b-40a1-94fc-5cb326b5da93" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/otc/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/otc/index.po" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/send/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/send/index.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/soft/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/soft/index.po" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/tx/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/tx/index.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/version/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/version/index.po" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po" />
     </list>
     <ignored path="testdemo.iws" />
@@ -63,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1695">
-              <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="111" column="10" selection-start-line="111" selection-start-column="10" selection-end-line="111" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -96,8 +91,8 @@
       <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/tx/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="643">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -116,14 +111,14 @@
       <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+            <state relative-caret-position="-1112">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -179,13 +174,13 @@
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/note/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/otc/index.po" />
-        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/send/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/soft/index.po" />
-        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/tx/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/version/index.po" />
-        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/tx/index.po" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po" />
       </list>
     </option>
   </component>
@@ -1185,14 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/send/index.po">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
@@ -1209,14 +1196,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/tx/index.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/version/index.po">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1225,18 +1204,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/tx/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1112">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="111" column="10" selection-start-line="111" selection-start-column="10" selection-end-line="111" selection-end-column="10" />
           <folding />
         </state>
       </provider>

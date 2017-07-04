@@ -59,7 +59,7 @@ msgstr "Settings - TX Accelerator - Upper right corner (acceleration)."
 
 #: ../../source/tx/index.rst:31
 msgid "在交易加器界面中，待加速。查看“待加速”的交易和“已加速”的交易。在“待加速”列表中选择要一项加速的交易，点击“加速”按钮进行加速。"
-msgstr " On TX Accelerator Interface, you can check 'To Accelerate' and 'Accelerated' transactions. You can select a transaction in the 'To Accelerate' list and click 'Accelerate' button to speed up."
+msgstr "On TX Accelerator Interface, you can check 'To Accelerate' and 'Accelerated' transactions. You can select a transaction in the 'To Accelerate' list and click 'Accelerate' button to speed up."
 
 #: ../../source/tx/index.rst:32
 msgid "tx_id可以指定比特币交易id进行加速（输入正确的交易id，不能包含空格及其他的特殊字符）。"

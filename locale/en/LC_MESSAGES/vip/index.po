@@ -31,7 +31,7 @@ msgstr "VIP OTC transaction can help user trade quickly. The transaction of VIP 
 
 #: ../../source/vip/index.rst:10
 msgid "VIP OTC 功能"
-msgstr ""
+msgstr "VIP OTC Function"
 
 #: ../../source/vip/index.rst:12
 msgid "VIP盘口广告在普通OTC广告列表中置顶显示。"

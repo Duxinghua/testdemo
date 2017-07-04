@@ -109,5 +109,5 @@ msgstr "After finishing registration or recovery, you will see an interface lett
 
 #: ../../source/password/index.rst:91
 msgid "2.通过二维码进行恢复种子。"
-msgstr "2. Seed Recovery by QR Code."
+msgstr "2.Seed Recovery by QR Code."
 
