@@ -42,19 +42,19 @@ msgstr "Yes, it is. Based on the HD wallet technology, Bitpie can not access to 
 
 #: ../../raq/index.rst:15
 msgid "3.我在比特派上进行交易，比特派怎么保护我的隐私数据？"
-msgstr ""
+msgstr "3.When I trade on Bitpie, how does Bitpie protect my privacy data?"
 
 #: ../../raq/index.rst:17
 msgid "比特派严格按照国家法律法规保护用户隐私，在登录和交易环节采用了自主研发的领先的安全和加密技术，基于角色的最严格内控系统，严格防止外部攻击者对用户隐私信息的获取，为用户交易保驾护航。"
-msgstr ""
+msgstr "In strict accordance with national laws and regulations to protect user’s privacy, Bitpie has applied the self-developed, advanced security and encryption technology. In view of the most stringent internal controlling system, it can exactly prevent external attackers from obtaining user privacy information for protecting transactions."
 
 #: ../../raq/index.rst:20
 msgid "4.如果比特派公司在经营上出现了问题，我的资产是安全的吗？"
-msgstr ""
+msgstr "4.Whether my assets are safe or not if Bitpie company has a operational problem?"
 
 #: ../../raq/index.rst:22
 msgid "是的。这是比特派区别于其他交易平台的重要技术：我们把自身企业运营和用户资产控制完全隔离，用户通过HD钱包掌控了数字货币私钥，即使比特派公司运营出现重大问题，也不可能在用户私人财产动任何脑筋。"
-msgstr ""
+msgstr "Yes, it is safe. This is a significant technology that distinguishes from others’ platforms: we completely separate our own business operations from user’s asset controlling system, and the user takes the private key of digital currency through HD wallet. Therefore, even if there is a severe operational problem, Bitpie still can’t access to the user’s money."
 
 #: ../../raq/index.rst:25
 msgid "5.交易有最低的限额吗？我需要至少多少钱才可以开始交易？"
