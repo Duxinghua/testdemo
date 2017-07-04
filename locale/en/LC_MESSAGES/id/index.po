@@ -19,23 +19,23 @@ msgstr ""
 
 #: ../../id/index.rst:2
 msgid "身份认证"
-msgstr ""
+msgstr "id renate ssdfs"
 
 #: ../../id/index.rst:4
 msgid "进行身份认证可以提高你的KYC等级。KYC等级越高，你的一键买币的额度也就越大。"
-msgstr ""
+msgstr "test"
 
 #: ../../id/index.rst:7
 msgid "认证"
-msgstr ""
+msgstr "aa"
 
 #: ../../id/index.rst:9
 msgid "左边菜单—身份认证"
-msgstr ""
+msgstr "sdfs"
 
 #: ../../id/index.rst:10
 msgid "身份认证不需要按照顺序认证，如果你要是完成大额交易的话，可以直接认证最高等级。"
-msgstr ""
+msgstr "sfsdf"
 
 #: ../../id/index.rst:13
 msgid "认证细节"

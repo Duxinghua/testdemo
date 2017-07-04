@@ -34,11 +34,11 @@ msgstr "a c d"
 
 #: ../../raq/index.rst:10
 msgid "2.我在比特派的账户及账户里的资金是受保护的吗？"
-msgstr ""
+msgstr "2.create local en loc s te"
 
 #: ../../raq/index.rst:12
 msgid "是的。比特派基于HD钱包技术，因此平台自身无法动用用户数字资产，不存在其他交易平台的“暂停提现”或“卷币跑路”的可能。"
-msgstr ""
+msgstr "yes.bitpie this is a page test "
 
 #: ../../raq/index.rst:15
 msgid "3.我在比特派上进行交易，比特派怎么保护我的隐私数据？"
