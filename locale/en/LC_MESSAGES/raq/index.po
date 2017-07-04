@@ -114,75 +114,75 @@ msgstr "In the absence of non-compliance or accident conditions, only if buyer c
 
 #: ../../raq/index.rst:60
 msgid "11.转币一直长时间不确认怎么办？"
-msgstr ""
+msgstr "11.What should user do if it has taken a long time not to confirm the transferred Bitcoin?"
 
 #: ../../raq/index.rst:62
 msgid "区块链上的数字货币交易，可能会遇到网络拥堵情形，随着技术进步和协议改善，这种情形会逐渐得到解决，但如果用户某一笔交易急于尽快确认，可以在比特派购买“交易加速器”为特定交易加速确认。"
-msgstr ""
+msgstr "Digital currency transaction on Block chain will maybe encounter with network congestion. With the improvement of technology, this situation can be gradually solved. However, if user is eager to confirm the transaction as soon as possible, you can buy 'TX Accelerator' to speed up for a particular transaction."
 
 #: ../../raq/index.rst:65
 msgid "12.OTC交易对方故意拖延或不回复怎么办？"
-msgstr ""
+msgstr "12.What should user do if the counterparty on OTC intentionally delays or not reply?"
 
 #: ../../raq/index.rst:67
 msgid "可以申请仲裁。如果多次沟通无果，用户可以联系比特派管理员，查实后如果确属恶意，将会得到警告或惩罚。"
-msgstr ""
+msgstr "If the multiple-communication is invalid, user can contact the manager of Bitpie to investigate. If it is malicious, there would be a warning or punishment."
 
 #: ../../raq/index.rst:70
 msgid "13.区块链上交易的矿工费谁来承担？"
-msgstr ""
+msgstr "13.Who will pay for Miners’ Fee on the Blockchain?"
 
 #: ../../raq/index.rst:74 ../../raq/index.rst:93
 msgid "项目"
-msgstr ""
+msgstr "Project"
 
 #: ../../raq/index.rst:74
 msgid "矿工费承担方"
-msgstr ""
+msgstr "Payer for Miners’ Fee"
 
 #: ../../raq/index.rst:76
 msgid "一键买币"
-msgstr ""
+msgstr "Buying Bitcoin on Instant Trade"
 
 #: ../../raq/index.rst:76
 msgid "比特派"
-msgstr ""
+msgstr "Bitpie"
 
 #: ../../raq/index.rst:77
 msgid "一键卖币"
-msgstr ""
+msgstr "Selling Bitcoin on Instant Trade"
 
 #: ../../raq/index.rst:77
 msgid "卖币方"
-msgstr ""
+msgstr "Seller party"
 
 #: ../../raq/index.rst:78
 msgid "OTC交易挂广告买"
-msgstr ""
+msgstr "Placing advertisement to buy on OTC"
 
 #: ../../raq/index.rst:78 ../../raq/index.rst:81
 msgid "去往托管矿工费由卖币方承担，托管释放由买币方承担"
-msgstr ""
+msgstr "Miners’ Fee on releasing Escrow is paid by Buyer party"
 
 #: ../../raq/index.rst:79
 msgid "OTC交易挂广告卖"
-msgstr ""
+msgstr "Placing advertisement to sell on OTC"
 
 #: ../../raq/index.rst:79 ../../raq/index.rst:80 ../../raq/index.rst:96
 msgid "广告方"
-msgstr ""
+msgstr "Advertising party"
 
 #: ../../raq/index.rst:80
 msgid "OTC交易下单买"
-msgstr ""
+msgstr "Ordering to buy on OTC"
 
 #: ../../raq/index.rst:81
 msgid "OTC交易下单卖"
-msgstr ""
+msgstr "Ordering to sell on OTC"
 
 #: ../../raq/index.rst:88
 msgid "14.费率详情见下表："
-msgstr ""
+msgstr "14.Details of rates are shown in the table below:"
 
 #: ../../raq/index.rst:90
 msgid "费率根据实际情况会调整。"
@@ -190,19 +190,19 @@ msgstr ""
 
 #: ../../raq/index.rst:93
 msgid "结算币种"
-msgstr ""
+msgstr "Currency type"
 
 #: ../../raq/index.rst:93
 msgid "费用承担方"
-msgstr ""
+msgstr "Payer for Miners’ Fee"
 
 #: ../../raq/index.rst:93
 msgid "费率(更新时间：2017年6月)"
-msgstr ""
+msgstr "rates (Updated: Jun 2017)"
 
 #: ../../raq/index.rst:95
 msgid "一键买卖交易手续费"
-msgstr ""
+msgstr "Service Fee on Instant Trade"
 
 #: ../../raq/index.rst:95
 msgid "法币"
