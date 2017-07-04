@@ -17,11 +17,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../index.rst:7
+#: ../../source/index.rst:7
 msgid "比特派使用文档"
-msgstr ""
+msgstr "Bitpie help docs"
 
-#: ../../index.rst:9
+#: ../../source/index.rst:9
 msgid "目录:"
-msgstr ""
+msgstr "List"
+
 
