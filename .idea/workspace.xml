@@ -89,8 +89,8 @@
       <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="417" column="321" selection-start-line="417" selection-start-column="321" selection-end-line="417" selection-end-column="321" />
+            <state relative-caret-position="28">
+              <caret line="352" column="11" selection-start-line="352" selection-start-column="11" selection-end-line="352" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -964,8 +964,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="417" column="321" selection-start-line="417" selection-start-column="321" selection-end-line="417" selection-end-column="321" />
+        <state relative-caret-position="28">
+          <caret line="352" column="11" selection-start-line="352" selection-start-column="11" selection-end-line="352" selection-end-column="11" />
           <folding />
         </state>
       </provider>
