@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e7b037-827b-40a1-94fc-5cb326b5da93" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/download/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/download/index.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/note/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/note/index.po" />
     </list>
     <ignored path="testdemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,16 +28,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/raq/index.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="538">
@@ -59,8 +50,18 @@
       <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            <state relative-caret-position="2625">
+              <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/note/index.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/download/index.po">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
@@ -164,13 +165,14 @@
         <option value="$PROJECT_DIR$/index.rst" />
         <option value="$PROJECT_DIR$/vip/index.rst" />
         <option value="$PROJECT_DIR$/raq/index.rst" />
-        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
         <option value="$PROJECT_DIR$/_build/gettext/address/index.pot" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/address/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/btc/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/collection/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/download/index.po" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/note/index.po" />
       </list>
     </option>
   </component>
@@ -302,6 +304,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="raq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testdemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testdemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LC_MESSAGES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="note" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -793,7 +821,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/tx/index.rst" />
     <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/tx/index.po" />
     <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/vip/index.po" />
     <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/id/index.mo" />
@@ -898,14 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_build/doctrees/address/index.doctree">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -958,6 +977,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="105" selection-start-line="33" selection-start-column="105" selection-end-line="33" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/note/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
