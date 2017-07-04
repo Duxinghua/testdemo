@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e7b037-827b-40a1-94fc-5cb326b5da93" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
     </list>
     <ignored path="testdemo.iws" />
@@ -67,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -87,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+            <state relative-caret-position="270">
+              <caret line="32" column="535" selection-start-line="32" selection-start-column="535" selection-end-line="32" selection-end-column="535" />
               <folding />
             </state>
           </provider>
@@ -157,8 +156,8 @@
         <option value="$PROJECT_DIR$/raq/index.rst" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/address/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/btc/index.po" />
-        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
       </list>
     </option>
   </component>
@@ -169,8 +168,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="347" />
-    <option name="y" value="66" />
+    <option name="x" value="-15" />
+    <option name="y" value="94" />
     <option name="width" value="1280" />
     <option name="height" value="691" />
   </component>
@@ -660,7 +659,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="347" y="66" width="1280" height="691" extended-state="0" />
+    <frame x="-15" y="94" width="1280" height="691" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -816,14 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/address/index.po">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -836,6 +827,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="32" column="535" selection-start-line="32" selection-start-column="535" selection-end-line="32" selection-end-column="535" />
           <folding />
         </state>
       </provider>
