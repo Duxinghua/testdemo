@@ -58,27 +58,27 @@ msgstr "Yes, it is safe. This is a significant technology that distinguishes fro
 
 #: ../../raq/index.rst:25
 msgid "5.交易有最低的限额吗？我需要至少多少钱才可以开始交易？"
-msgstr ""
+msgstr "5.Does the transaction have the minimum limits? How much money do I have at least to start trading?"
 
 #: ../../raq/index.rst:27
 msgid "目前：“一键买卖”最低交易0.1BTC，“OTC托管交易”买卖双方自定义限额。后期也有可能动态调整。"
-msgstr ""
+msgstr "The minimum limits of 'Instant Trade' are 0.1BTC. The buyer and seller on OTC Escrow transaction can define the limits."
 
 #: ../../raq/index.rst:30
 msgid "6.我可以通过哪些方式参与数字货币的交易？"
-msgstr ""
+msgstr "6.How could I participate in digital currency transaction?"
 
 #: ../../raq/index.rst:32
 msgid "比特派提供了iOS和android版本的客户端。"
-msgstr ""
+msgstr "Bitpie provides IOS and Android versions."
 
 #: ../../raq/index.rst:34
 msgid "下载地址：苹果iOS： http://bitpie.com/ios/"
-msgstr ""
+msgstr "Download Address: Apple iOS: http://bitpie.com/ios/"
 
 #: ../../raq/index.rst:36
 msgid "安卓android： http://bitpie.com/android/"
-msgstr ""
+msgstr "Android: http://bitpie.com/android/"
 
 #: ../../raq/index.rst:40
 msgid "7.“比特派（bitpie）”和“比太钱包（bither）”是什么关系？"
