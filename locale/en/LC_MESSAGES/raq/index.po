@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../../raq/index.rst:2
 msgid "常见问题FAQ"
-msgstr "a"
+msgstr "Frequently Asked Questions (FAQ)"
 
 #: ../../raq/index.rst:6
 msgid "1.比特派相比于传统交易平台、或其他OTC平台，有什么区别和优势？"
-msgstr "b a"
+msgstr "1. Compared to traditional trading platforms or other OTC platforms, what are the difference and the advantage of Bitpie?"
 
 #: ../../raq/index.rst:7
 msgid ""
