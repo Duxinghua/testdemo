@@ -17,19 +17,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../download/index.rst:2
+#: ../../source/download/index.rst:2
 msgid "下载"
-msgstr ""
+msgstr "Download"
 
-#: ../../download/index.rst:4
+#: ../../source/download/index.rst:4
 msgid "安卓 http://bitpie.com/android"
-msgstr ""
+msgstr "Android http://bitpie.com/android"
 
-#: ../../download/index.rst:6
+#: ../../source/download/index.rst:6
 msgid "苹果 http://bitpie.com/ios （附安装指南）"
-msgstr ""
+msgstr "IOS http://bitpie.com/ios (with Installation Guide)"
 
-#: ../../download/index.rst:8
+#: ../../source/download/index.rst:8
 msgid "此外谷歌商店（Google Play）和苹果商店（Apple App Store）（国外用户）都支持下载比特派。"
-msgstr ""
+msgstr "In addition, Google Play and Apple App Store (foreign users) are all support to download Bitpie."
 
