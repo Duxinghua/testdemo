@@ -206,11 +206,11 @@ msgstr "Service Fee on Instant Trade"
 
 #: ../../raq/index.rst:95
 msgid "法币"
-msgstr ""
+msgstr "Fait"
 
 #: ../../raq/index.rst:95
 msgid "下单方"
-msgstr ""
+msgstr "Buyer/Seller"
 
 #: ../../raq/index.rst:95
 msgid "0%"
@@ -218,11 +218,11 @@ msgstr ""
 
 #: ../../raq/index.rst:96
 msgid "OTC托管交易手续费"
-msgstr ""
+msgstr "Service Fee on OTC Escrow transaction"
 
 #: ../../raq/index.rst:96
 msgid "数字货币"
-msgstr ""
+msgstr "Digital currency"
 
 #: ../../raq/index.rst:96
 msgid "1‰"
@@ -230,67 +230,67 @@ msgstr ""
 
 #: ../../raq/index.rst:97
 msgid "OTC押金充提手续费"
-msgstr ""
+msgstr "Service Fee on OTC Deposit fee"
 
 #: ../../raq/index.rst:97 ../../raq/index.rst:98
 msgid "法币/数字货币"
-msgstr ""
+msgstr "Fait /Digital currency"
 
 #: ../../raq/index.rst:97 ../../raq/index.rst:98
 msgid "申请人"
-msgstr ""
+msgstr "Proposer"
 
 #: ../../raq/index.rst:97
 msgid "定额（充值0.5元,提现1元；BTC充值免费,BTC提现0.001BTC）"
-msgstr ""
+msgstr "Fixed (0.5 yuan for top up, 1 yuan for withdrawal; free for BTC top up; 0.001BTC for BTC withdrawal"
 
 #: ../../raq/index.rst:98
 msgid "VIP OTC押金充提手续费"
-msgstr ""
+msgstr "Service Fee on VIP OTC Deposit fee"
 
 #: ../../raq/index.rst:98
 msgid "定额 (充值50元,提现50元；BTC充值免费,BTC提现0.01BTC)"
-msgstr ""
+msgstr "Fixed (50 yuan for top up and withdrawal; free for BTC top up, 0.01BTC for BTC withdrawal"
 
 #: ../../raq/index.rst:102
 msgid "15.如何防范OTC交易中的潜在风险？"
-msgstr ""
+msgstr "15.How to protect against potential risks on OTC transaction?"
 
 #: ../../raq/index.rst:104
 msgid "首先建议用户选择“平台托管”的OTC交易，任何私下成交的买卖与平台无关。其次，在OTC托管交易的情况下，用户应当遵循“确认一致”原则，即：在付款或发币前，应当确认对方义务已经履行完毕。"
-msgstr ""
+msgstr "First, we recommend that user chooses ' Escrow transaction Platform' of OTC, on which any private transactions have no connection with platform. What’s more, in the case of OTC Escrow transaction, user should follow the 'confirmed consistency' principle. That is to say: it should be confirmed that the obligations of both sides have been fulfilled before paying money or issuing Bitcoin"
 
 #: ../../raq/index.rst:107
 msgid "16.OTC交易什么时候需要“仲裁”？"
-msgstr ""
+msgstr "16.When would OTC transaction need ‘Arbitration’?"
 
 #: ../../raq/index.rst:109
 msgid "当“托管OTC交易”双方认为遇到争议、且无法自行协调的情况下，可以申请仲裁。"
-msgstr ""
+msgstr "When the two parties of 'OTC Escrow transaction' has encountered with disputes, and has not be able to coordinate, you can apply for arbitration."
 
 #: ../../raq/index.rst:112
 msgid "17.种子密语没有备份怎么办？"
-msgstr ""
+msgstr "17.What should user do if user doesn’t have a back-up of Seed Phrase?"
 
 #: ../../raq/index.rst:114
 msgid "如果用户丢失了种子密语，比特派也无法帮用户找回——这一点非常重要，所以再次提醒用户:必须妥善保管好种子密语。"
-msgstr ""
+msgstr "If user loses Seed Phrase, Bitpie also could not help recover it. It is extremely important. Hence, we remind it again: Each user must keeps Seed Phrase in earnest."
 
 #: ../../raq/index.rst:117
 msgid "18.忘记pin码怎么办？"
-msgstr ""
+msgstr "18.How to solve it if user forgets Pin Code?"
 
 #: ../../raq/index.rst:119
 msgid "如果确认已经保存好种子密语，用户可以在其他手机。重新安装比特派、并恢复钱包，恢复后可以重置pin密码。"
-msgstr ""
+msgstr "If confirms that has saved Seed Phrase well, user can re-install Bitpie App on another phone (or uninstall Bitpie App ) and then restore the wallet. After recovery, you can reset Pin Code."
 
 #: ../../raq/index.rst:122
 msgid "19.手机丢失了怎么办？"
-msgstr ""
+msgstr "19.What if user loses own phone, are there some solutions to provide?"
 
-#: ../../raq/index.rst:124
+#: ../../source/raq/index.rst:124
 msgid "如果确认已经保存好种子密语，那么用户资产依然安全，但是我们仍然建议用户采取安全防范措施：在新手机上用密语恢复比特派，然后将钱包内的币转移到另一个（新建的）钱包内。"
-msgstr ""
+msgstr "If user confirms that has saved Seed Phrase well, the user’s assets must be safe. However, we still recommend user to take security precautions: Recovering Bitpie by Seed Phrase of new phone, and then transferring Bitcoin of original wallet into another (new) wallet."
 
 #: ../../raq/index.rst:127
 msgid "20.为什么我的支付宝/网银/微信，转账被退回？绑定失败？"
