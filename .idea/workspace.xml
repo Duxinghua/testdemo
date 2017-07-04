@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e7b037-827b-40a1-94fc-5cb326b5da93" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/address/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/address/index.pot" />
     </list>
     <ignored path="testdemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,11 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="28">
               <caret line="352" column="11" selection-start-line="352" selection-start-column="11" selection-end-line="352" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.pot" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_build/gettext/address/index.pot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -158,6 +168,7 @@
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/btc/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
+        <option value="$PROJECT_DIR$/_build/gettext/address/index.pot" />
       </list>
     </option>
   </component>
@@ -822,7 +833,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/btc/index.po" />
     <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/address/index.po" />
     <entry file="file://$PROJECT_DIR$/source/note/index.rst" />
     <entry file="file://$PROJECT_DIR$/source/tx/index.rst" />
@@ -966,6 +976,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="352" column="11" selection-start-line="352" selection-start-column="11" selection-end-line="352" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/gettext/address/index.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
