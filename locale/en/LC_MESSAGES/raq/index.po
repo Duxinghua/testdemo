@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../../raq/index.rst:15
 msgid "3.我在比特派上进行交易，比特派怎么保护我的隐私数据？"
-msgstr "3. When I trade on Bitpie, how does Bitpie protect my privacy data?"
+msgstr "3.When I trade on Bitpie, how does Bitpie protect my privacy data?"
 
 #: ../../raq/index.rst:17
 msgid "比特派严格按照国家法律法规保护用户隐私，在登录和交易环节采用了自主研发的领先的安全和加密技术，基于角色的最严格内控系统，严格防止外部攻击者对用户隐私信息的获取，为用户交易保驾护航。"
@@ -266,9 +266,8 @@ msgid "费用承担方"
 msgstr "Payer for Miners’ Fee"
 
 #: ../../raq/index.rst:93
-#, fuzzy
 msgid "费率(更新时间：2017年6月)"
-msgstr "rates(Updated:Jun 2017)"
+msgstr "rates (Updated: May 2017)"
 
 #: ../../raq/index.rst:95
 msgid "一键买卖交易手续费"
@@ -573,4 +572,7 @@ msgstr ""
 "/bither-doc/blob/gh-pages/faq.md, and Search results "
 "https://www.baidu.com/s?ie=utf8&oe=utf8&wd=%E6%AF%94%E5%A4%AA%E9%92%B1%E5%8C%85%E4%BD%93%E9%AA%8C&tn=98010089_dg&ch=2"
 " Bither wallet’s FAQ"
+
+#~ msgid "费率"
+#~ msgstr "rates"
 
