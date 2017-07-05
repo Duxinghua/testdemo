@@ -198,8 +198,8 @@ msgid "费用承担方"
 msgstr "Payer for Miners’ Fee"
 
 #: ../../source/raq/index.rst:93
-msgid "费率（更新时间：2017年6月）"
-msgstr "rates (Updated: Jun 2017)"
+msgid "费率（更新时间：2017年6月"
+msgstr "rates(Updated:Jun2017)"
 
 #: ../../source/raq/index.rst:95
 msgid "一键买卖交易手续费"
