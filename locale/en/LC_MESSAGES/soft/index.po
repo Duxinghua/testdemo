@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../source/soft/index.rst:2
 msgid "软件功能简述"
-msgstr "Brief Description of Bitpie Features"
+msgstr "Brief Description of Bitpie Function"
 
 #: ../../source/soft/index.rst:4
 msgid ""
