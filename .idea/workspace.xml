@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e7b037-827b-40a1-94fc-5cb326b5da93" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/soft/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/soft/index.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" afterPath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
     </list>
     <ignored path="testdemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/note/index.po">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1725">
+              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -117,16 +126,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.po" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -164,7 +163,6 @@
         <option value="$PROJECT_DIR$/index.rst" />
         <option value="$PROJECT_DIR$/vip/index.rst" />
         <option value="$PROJECT_DIR$/raq/index.rst" />
-        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
         <option value="$PROJECT_DIR$/_build/gettext/address/index.pot" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/address/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/btc/index.po" />
@@ -180,6 +178,7 @@
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/vip/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/soft/index.po" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" />
       </list>
     </option>
   </component>
@@ -1095,13 +1094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="352" column="11" selection-start-line="352" selection-start-column="11" selection-end-line="352" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_build/gettext/address/index.pot">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -1217,6 +1209,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1725">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
           <folding />
         </state>
       </provider>
