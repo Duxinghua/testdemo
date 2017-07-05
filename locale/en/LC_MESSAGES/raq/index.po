@@ -474,7 +474,7 @@ msgstr "Yes, they are"
 #: ../../raq/index.rst:162
 msgid "27.如果我手机号/支付宝/银行信息，换了该怎么办？"
 msgstr ""
-"27. What should I do if I change my phone number / Alipay / Bank "
+"27.What should I do if I change my phone number / Alipay / Bank "
 "Information? "
 
 #: ../../raq/index.rst:164
@@ -483,7 +483,7 @@ msgstr "The replacement of Bitpie information should be done before the change."
 
 #: ../../raq/index.rst:167
 msgid "28.一个手机可以装几个比特派？"
-msgstr "28. Could a phone be uploaded a few Bitpie?"
+msgstr "28.Could a phone be uploaded a few Bitpie?"
 
 #: ../../raq/index.rst:169
 msgid "一个。"
