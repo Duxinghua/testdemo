@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-04 20:33+0800\n"
+"POT-Creation-Date: 2017-07-05 09:58+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -197,7 +197,7 @@ msgid "费用承担方"
 msgstr ""
 
 #: ../../raq/index.rst:93
-msgid "费率(更新时间：2017年6月)"
+msgid "费率"
 msgstr ""
 
 #: ../../raq/index.rst:95
