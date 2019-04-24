@@ -1,0 +1,16 @@
+apps:
+  - script: ./server/server.js
+    name: vue-todo
+    env_production:
+      NODE_ENV: production
+      HOST: localhost
+      PORT: 8888
+
+deploy:
+  production:
+    user: root
+    host: 104.244.93.214
+    port: 28078
+    ref: orgin/master
+    ssh_options: StrictHostKeyChecking=no
+    
