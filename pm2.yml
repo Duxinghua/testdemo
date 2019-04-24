@@ -13,4 +13,10 @@ deploy:
     port: 28078
     ref: orgin/master
     ssh_options: StrictHostKeyChecking=no
-    
+    repo:  https://github.com/Duxinghua/testdemo.git
+    path: /root/work/
+    pre-deploy: git fetch --all
+    post-deploy: npm install && pm2 reload pm2.yaml --env production
+    env:
+      NODE_ENV: production
+
