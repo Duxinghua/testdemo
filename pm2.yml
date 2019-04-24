@@ -9,14 +9,13 @@ apps:
 deploy:
   production:
     user: root
-    host: 104.244.93.214
-    port: 28078
+    host: "104.244.93.214 -p 28078"
     ref: orgin/master
     ssh_options: StrictHostKeyChecking=no
     repo:  https://github.com/Duxinghua/testdemo.git
     path: /root/work/
     pre-deploy: git fetch --all
-    post-deploy: npm install && pm2 reload pm2.yaml --env production
+    post-deploy: npm install && npm run build &&pm2 reload pm2.yml --env production
     env:
       NODE_ENV: production
 
